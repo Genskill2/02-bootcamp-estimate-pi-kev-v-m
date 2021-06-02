@@ -2,7 +2,7 @@ import math
 import unittest
 import random
 
-i=input("enter iterations:")
+
 
 def wallis(i):
 	k=1
